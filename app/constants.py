@@ -7,7 +7,8 @@ SUPPORTED_LANGUAGES = {
     'ar': 'Arabic',
     'fr': 'French',
     'it': 'Italian',
-    'es': 'Spanish'
+    'es': 'Spanish',
+    'pt': 'Portuguese'
 }
 
 SUPPORTED_MEDIA_FILES = [
