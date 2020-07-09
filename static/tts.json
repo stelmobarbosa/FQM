@@ -27,4 +27,9 @@
         "language": "Urdu",
         "message": "برائے مہربانی آفس نمبر پر آگے بڑھیں"
     }
+        },
+    "pt": {
+        "language": "Portuguese",
+        "message": "Por favor dirija-se ao balcão número:"
+    }
 }
